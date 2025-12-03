@@ -11,7 +11,7 @@
 
 
 
-<I> <B> MiniMaxx Text board </B> <SUP>V001</SUP> </I> 
+<I> <B> MiniMaxx Text board </B> <SUP>V002</SUP> </I> 
 
 <DIV class="headstyle">
 
@@ -26,3 +26,4 @@
 </DIV>
 
 <!-- head module ---------------------------------------------------------------------------------------------------------- -->
+
