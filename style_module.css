@@ -1,0 +1,18 @@
+/* This is where you cane change the style of MiniMaxx */
+
+div.easy_css_style {
+	background-color: #101010; /* This is the background color for the whole site */
+	color: #E05000;            /* It just says color, but this is the text color  */
+	
+	
+	/* This bit of css code makes the easy_css_style DIV fill the whole background */
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	left: 0;
+	top: 0;
+}
+
+div {
+	background-color: #202020; /* This is the background color for the other modules */
+}
