@@ -1,15 +1,14 @@
 <!-- head module ---------------------------------------------------------------------------------------------------------- -->
-<HEAD> 
-	<TITLE> MiniMaxx </TITLE> 
+
+<TITLE> MiniMaxx </TITLE> 
 	
-	<STYLE> 
-	div.headstyle { 
-		background-color: #E0E0E0; 
+<STYLE> 
+	div.headstyle {  
 		align-items: center;
 		margin: auto;
 	}
-	</STYLE>
-</HEAD>
+</STYLE>
+
 
 
 <I> <B> MiniMaxx Text board </B> <SUP>V001</SUP> </I> 
@@ -27,4 +26,3 @@
 </DIV>
 
 <!-- head module ---------------------------------------------------------------------------------------------------------- -->
-
