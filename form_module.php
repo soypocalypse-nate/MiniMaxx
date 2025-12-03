@@ -4,12 +4,11 @@
 
 <STYLE> 
 	div.scroll { 
-		background-color: #E0E0E0;
 		overflow-x: hidden;
 		overflow-y: auto;
 		padding: 10px;
 		height: 500px;
-		} 
+	} 
 </STYLE>
 
 
