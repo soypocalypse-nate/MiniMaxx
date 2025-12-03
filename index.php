@@ -4,17 +4,8 @@
 
 <title> MiniMaxx </title>
 
-<style>
-  div.scroll {
-	background-color: #E0E0E0;
-	width: 95%;
-	height: 500px;
-	overflow-x: hidden;
-	overflow-y: auto;
-	
-	padding: 20px;
-  }
-</style>
+<!-- this is the setup for the <DIV> that lets you scroll (CSS) -->
+<style> div.scroll { background-color: #E0E0E0; width: 95%; height: 500px; overflow-x: hidden; overflow-y: auto; padding: 20px; } </style>
 
 </HEAD>
 
@@ -38,6 +29,11 @@
 </CENTER>
 
 <BR>
+
+
+
+
+
 
 <div class="scroll">
 <PRE> <?php
@@ -70,5 +66,7 @@ fclose($database);
 
 ?> </PRE>
 </div>
+
+<CENTER> <H5> MiniMaxx CC0 v000</H5> </CENTER>
 
 </BODY> </HTML>
