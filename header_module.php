@@ -20,10 +20,11 @@
 	
 		Text input: <INPUT type="text" name="text_input_box"> <!-- this gives you a text box with the name text_input_box -->
 		
-		<INPUT type="submit"> <!-- this gives you a submit button. -->
+		<INPUT type="submit" value="post"> <!-- this gives you a submit button, with the text post. -->
 	
 	</FORM>
 	
 </DIV>
 
 <!-- head module ---------------------------------------------------------------------------------------------------------- -->
+
