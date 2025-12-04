@@ -16,3 +16,12 @@ div.easy_css_style {
 div {
 	background-color: #202020; /* This is the background color for the other modules */
 }
+
+
+input {
+	/* This is the style for the text input (post button, and input box) */
+	background-color: #505050;
+	border: 1px solid #E05000;
+	color: #E0E0F0;
+	outline: none;
+}
